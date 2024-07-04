@@ -148,7 +148,7 @@ class CrocodileService
 
     static void Main()
     {
-        CrocodileService service = new CrocodileService();
+        CrocodileService new CrocodileService();
         bool finish = true;
         int input = new();
         int age, length, weight;
@@ -162,7 +162,7 @@ class CrocodileService
                               Выберите действие
                               1.Добавить крокодила
                               2.Вывести всех крокодилов
-                              3.Вывести всех крокодилов длинее чегото
+                              3.Вывести всех крокодилов длинее чего-то
                               4.Вывести самого старого крокодила
                               5.Вывести самого тяжелого крокодила
                               6.Закончить работу
