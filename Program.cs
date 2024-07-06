@@ -148,7 +148,7 @@ class CrocodileService
 
     static void Main()
     {
-        CrocodileService new CrocodileService();
+        CrocodileService service new CrocodileService();
         bool finish = true;
         int input = new();
         int age, length, weight;
